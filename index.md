@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: "Hi, my name is Justin.  My friends call me Hubbsy."
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I made a leap into the world of software development in 2020 and haven't looked back since. My journey has been both diverse and rewarding, with a particular focus on frontend technologies. I thrive on turning ideas into reality and constantly seek new challenges to enhance my skills.Whether you're an employer looking for a passionate developer or a fellow enthusiast keen on collaboration, I'd love to connect! Feel free to explore my projects or drop me a message.
