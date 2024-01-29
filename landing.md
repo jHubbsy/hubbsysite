@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Development
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: "Join me on an exciting journey through my professional adventures! Explore the projects I've tackled, the challenges I've overcome, and the skills I've honed along the way."
+image: assets/images/adventures.jpg
 nav-menu: true
 ---
 
